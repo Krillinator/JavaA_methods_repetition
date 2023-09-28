@@ -3,8 +3,8 @@
                 to object,
                 to within main
             )
-        --> Split up methods
-        // Argument/Params
+        ** Split up methods
+        ** Argument/Params
         // keywords + methods (static, this)
         // Methods/Scanner that repeat until: "YES" | "NO"
         // Restart program if done() (question YES NO also)
