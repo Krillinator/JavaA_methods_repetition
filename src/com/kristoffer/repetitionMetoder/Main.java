@@ -11,19 +11,27 @@ public class Main {
 
         // Print age
         System.out.println(benny.age);
-
+        System.out.println( test() );
 
         // Keywords
             // What is a 'keyword' //
             // Primitive Data-types //
             // for, if, switch, new //
-            // 'this' <--
+            // 'this' //
 
             // Methods
-                // v-modifiers
-                // static
-                // void
-                // class
+                // v-modifiers (public) //
+                // static (rule for Main) //
+                // void (return) //
+                // class //
 
     }
+
+    // Methods
+    // v-mod, static, return-type, name, () {}
+    public static int test() {
+
+        return 2+2;
+    }
+
 }

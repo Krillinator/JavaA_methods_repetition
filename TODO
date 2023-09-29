@@ -5,9 +5,12 @@
             )
         *** Split up methods
         *** Argument/Params
-        --> keywords + methods (static, this)
-                //** Git Clone **//
-        // Methods/Scanner that repeat until: "YES" | "NO"
+        *** keywords + methods (static, this)
+                *** Git Clone **//
+                *** Our .git? Or their .git!
+                // what happened to branches //
+
+        --> Methods/Scanner that repeat until: "YES" | "NO"
         // Restart program if done() (question YES NO also)
 
-
+        // FORTSÄTTER -> 10:05
