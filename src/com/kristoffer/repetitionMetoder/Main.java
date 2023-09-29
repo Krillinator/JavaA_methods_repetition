@@ -11,6 +11,13 @@ public class Main {
         // for loop (x)     VS     do-while (1 + X)
         // continue; what does it do?
 
+        for (int i = 0; i < 10; i++) {
+            if (i == 4) {
+                continue;
+            }
+            System.out.println("Index is: " + i);
+        }
+
         // Instantiation
         Scanner scanner = new Scanner(System.in);
 
